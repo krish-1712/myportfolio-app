@@ -16,7 +16,6 @@ const Heroimg = () => {
           <Link to="/project" className="btn">Projects</Link>
           <Link to="https://drive.google.com/file/d/1vMdxvVYGTGUs1r24y8NKj5t-CdhQoWcM/view" target="_blank" className="btn btn-light">Resume</Link>
         </div>
-
       </div>
     </div>
   )
