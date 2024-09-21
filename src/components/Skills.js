@@ -39,32 +39,32 @@ const Skills = () => {
                   className="skill-slider"
                 >
                   <div className="item">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" style={{ "marginTop": "50px" }} />
+                    <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="js"   />
                   </div>
                   <div className="item">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="html" style={{ "marginTop": "50px" }} />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="html"/>
                   </div>
                   <div className="item">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css" style={{ "marginTop": "50px" }} />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css"  />
                   </div>
                   <div className="item">
-                    <img src="https://techinfini.in/wp-content/uploads/2017/09/React-Logo-1.png" alt="react" style={{ "marginTop": "50px" }} />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  />
 
                   </div>
                   <div className="item">
-                    <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb" style={{ "marginTop": "50px" }} />
+                    <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb"  />
 
                   </div>
                   <div className="item">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" style={{ "marginTop": "50px" }} />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql"  />
 
                   </div>
                   <div className="item">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="node" style={{ "marginTop": "50px" }} />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="node"  />
 
                   </div>
                   <div className="item">
-                    <img src="https://www.vistarprotech.com/assets/img/portfolio/p8.png" alt="express" style={{ "marginTop": "50px" }} />
+                    <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" alt="express" style={{backgroundColor:"white", width:"40%",height:"40%",marginTop:"40px"}} />
 
                   </div>
                 </Carousel>
