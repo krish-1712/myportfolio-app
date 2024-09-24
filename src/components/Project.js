@@ -9,15 +9,15 @@ const Project = (props) => {
         <h2 className="project-title">{props.title}</h2>
         <p className="project-description">{props.description}</p>
         <div className="pro-btns">
-          <a href={props.view} className="btn" target="_blank" rel="noreferrer" >
+          <a href={props.view} className="btn" target="_blank" rel="noopener noreferrer" >
             View
           </a>
           
-            <a href={props.frontendsource} className="btn"  target="_blank" rel="noreferrer">
+            <a href={props.frontendsource} className="btn"  target="_blank" rel="noopener noreferrer">
               <span className="btn-icon">🔍</span> FrontEnd
             </a>
             {props.backendsource && (
-              <a href={props.backendsource} className="btn" style={{ "marginLeft": "6px" }}  target="_blank" rel="noreferrer">
+              <a href={props.backendsource} className="btn" style={{ "marginLeft": "6px" }}  target="_blank" rel="noopener noreferrer">
                 <span className="btn-icon">🔍</span> BackEnd
               </a>
             )}
